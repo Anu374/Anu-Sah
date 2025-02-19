@@ -116,7 +116,7 @@ const Projects = () => {
       description: 'A modern, responsive personal portfolio website built with React and Emotion.',
       image: '/images/portfolio.png',
       technologies: ['React', 'Emotion', 'Framer Motion', 'React Router'],
-      githubLink: 'https://github.com/anusah/portfolio',
+      githubLink: 'https://github.com/Anu374/Anu-Sah',
       liveLink: 'https://anusah.com'
     },
     {
