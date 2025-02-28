@@ -22,13 +22,13 @@ A modern, responsive portfolio website built with React, showcasing your project
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Anu374/Anu-Sah.git
     ```
 
 2.  Navigate to the project directory:
 
     ```bash
-    cd <project_directory>
+    cd Anu-Sah
     ```
 
 3.  Install dependencies:
